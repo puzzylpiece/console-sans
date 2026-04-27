@@ -18,8 +18,8 @@ sources:
 
 # outputDir: ../fonts
 # vfDir: $outputDir/variable
-# ttDir: $outputDir/ttf
-# otDir: $outputDir/otf
+ttDir: $outputDir/ttf
+otDir: $outputDir/otf
 # woffDir: $outputDir/webfonts
 
 # The following entries, which are either "true" or "false"
@@ -27,8 +27,8 @@ sources:
 
 buildVariable: false
 buildStatic: true
-# buildTTF: true
-# buildOTF: false
+buildTTF: true
+buildOTF: false
 # buildSmallCap: false
 
 # The next flags control autohinting.
