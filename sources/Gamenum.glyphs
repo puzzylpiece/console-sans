@@ -2208,6 +2208,14 @@ width = 660;
 unicode = 37;
 }
 );
+instances = (
+{
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+}
+);
 metrics = (
 {
 type = ascender;

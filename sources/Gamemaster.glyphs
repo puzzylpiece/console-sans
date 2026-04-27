@@ -9107,6 +9107,14 @@ width = 1000;
 );
 }
 );
+instances = (
+{
+instanceInterpolations = {
+m01 = 1;
+};
+name = Regular;
+}
+);
 kerningLTR = {
 m01 = {
 "@MMK_L_D" = {
